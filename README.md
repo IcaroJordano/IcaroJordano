@@ -2,7 +2,7 @@
 <h1 align="center">Olá, eu sou Icaro Jordano</h1>
 
 <p align="center">
-  <img height=400px src="https://i.pinimg.com/736x/3c/61/23/3c6123aa04908249698efc04b6af04aa.jpg" />
+  <img height=400px src="https://github.com/IcaroJordano/IcaroJordano/blob/main/header-github.jpg" />
 </p>
 
 <p align="center">
